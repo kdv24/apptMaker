@@ -1,0 +1,38 @@
+body {
+	margin: 5%;
+	background-color: #eafbd1
+}
+
+
+
+button {
+	display: inline-block;
+	float: center;
+	width: 100%;
+	margin-top: 5%;
+}
+
+form {
+	display: inline-block;
+	float: left;
+	padding: 2%;
+	
+}
+
+.input-size {
+	width: 100%;
+	padding-right: 0%;
+}
+
+.colored-underline {
+	color: green;
+	text-decoration: underline;
+}
+
+.receipt {
+	display: inline-block;
+	margin-left: 20%;
+	border: 2px solid green;
+	padding: 2%;
+	background-color: #cbfbaf
+}
